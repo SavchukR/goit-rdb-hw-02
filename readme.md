@@ -14,3 +14,8 @@ Sample project for MySql database
 - sql_db_init.sql - schema sql init script
 - db_schema.png - initial schema
 - model.mwb - my sql model file
+
+schema db
+
+- Db_schema_1.png
+- Db_schema_2.png
