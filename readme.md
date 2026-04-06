@@ -9,6 +9,7 @@ Sample project for MySql database
 - NF_3.png - third normal form
 - NF_3_Eng.png - same in eng
 
+---
 
 - sql_db_init.sql - schema sql init script
 - db_schema.png - initial schema
